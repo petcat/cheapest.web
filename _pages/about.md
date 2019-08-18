@@ -23,6 +23,14 @@ If you like them, please give me likes or donate me.
 ## $1.00 USD Annually cPanel Shared Hosting
 ###### *Tags: $1/yearly, cPanel,*
 
+| DcnHost.com                                                  | KudoHosting.com                                              | MegazoneHosting.com                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Host 1 Domain    <br/>10GB Storage    <br/>200GB Bandwidth  <br/>Unlimited Features (i.e. Email, FTP, etc)    <br/>cPanel Control Panel    <br/>CloudLinux Optimized Servers    <br/>One Click Install Scripts   <br/>Free Migrations | Host 1 Domain   <br/>10 GB Storage Space    <br/>500 GB Bandwidth    <br/>cPanel Control Panel   <br/>Free SSL Certificate    <br/>CloudLinux Optimized    <br/>Litespeed Web Server   <br/>Multiple PHP Versions | Host 2 Domains   <br/>10 GB SSD Storage Space    <br/>600 GB Bandwidth    <br/>Softaculous Script Installer    <br/>Free SSL Certificate    <br/>cPanel Control Panel    <br/>LiteSpeed Web Server |
+| [$0.89 Annually](https://my.dcnhost.com/cart.php?a=add&pid=144) (LIMITED STOCK) | [$0.99 Annually](https://clients.kudohosting.com/cart.php?a=add&pid=112) | [$1.00 Annually](https://billing.megazonehosting.com/cart.php?a=add&pid=535) |
+
+
+
+
 1. DcnHost.com     
 
 >   Host 1 Domain    
