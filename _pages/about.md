@@ -37,7 +37,7 @@ If you like them, please give me likes or donate me.
 
 ---
 
-##  $2.00 ~ $9.99 Annually cPanel Shared Hosting
+##  $2.00 ~ 9.99 USD Annually cPanel Shared Hosting
 ###### *Tags: cPanel, DDoS Protected*
 
 | HostBRZ.com                                                  | n3Servers.com                                                | SolvedbyData.com                                             |
@@ -48,86 +48,19 @@ If you like them, please give me likes or donate me.
 
 ---
 
-## $2 ~ $9 Annually Unlimited site Hosting
+## $2.00 ~ 9.99 USD Annually Unlimited site Hosting
 ###### *Tags: cPanel, Unlimited site, DDoS Protected*
+     
+     
+| KayHosting                                                   | vpshared.com                                                 | Hosting73.com                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Host Unlimited Domains<br/>50 GB SSD Space<br/>2000 GB Bandwidth<br/>cPanel Control Panel<br/>CloudLinux Optimized<br/>LiteSpeed Web Server Powered | 128MB RAM<br/>20% Shared CPU vCore<br/>1GB SSD (RAID 10)<br/>100GB Traffic @ 1Gbps<br/>Domain Not Included<br/>20Gbps DDoS Protection<br/>Free Daily Backups<br/>Free Let’s Encrypt SSL<br/>No Limit FTP, SQL<br/>No Limit Domains<br/>No Limit E-mail Accounts | Unlimited Domains Hosted<br/>30 GB SSD Storage<br/>2500 GB Monthly Bandwidth<br/>Free SSL Certificate<br/>cPanel Control Panel |
+| [$3.99 Annually](https://clients.kayhosting.com/aff.php?aff=497&pid=91) | [$4.00 Annually](https://billing.vpshared.com/aff.php?aff=6188&pid=135) | [$5.00 Annually](https://www.hosting73.com/billing/cart.php?a=add&pid=106) |
 
-1. KayHosting
+    
+| SolvedbyData.com                                             | KayHosting.com                                               | KayHosting.com                                               | n3servers.com                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Host Unlimited Domains<br/>100 GB SSD Space<br/>2 TB Bandwidth<br/>LiteSpeed Web Server<br/>cPanel Control Panel<br/>CloudLinux Optimized<br/>DDoS Protection<br/>New York Datacenter | Host Unlimited Domains<br/>40 GB SSD Space<br/>2000 GB Bandwidth<br/>Unlimited Databases<br/>Unlimited Email Accounts<br/>cPanel Control Panel<br/>CloudLinux Optimized<br/>LiteSpeed Web Server Powered | Host Unlimited Domains<br/>100 GB SSD Space<br/>3000 GB Bandwidth<br/>Unlimited Databases<br/>Unlimited Email Accounts<br/>cPanel Control Panel<br/>CloudLinux Optimized<br/>LiteSpeed Web Server Powered | Unlimited Hosted Domains<br/>100GB Storage Space<br/>2000GB Monthly Bandwidth<br/>cPanel Control Panel<br/>LiteSpeed Enterprise Web Server<br/>CloudLinux / CageFS<br/>DDoS Protection |
+| [$5.00 Annually](https://clients.solvedbydata.com/cart.php?a=add&pid=29) | [$5.00 Annually](https://clients.kayhosting.com/aff.php?aff=497&pid=101) | [$5.99 Annually](https://clients.kayhosting.com/aff.php?aff=497&pid=92) | [$6.00 Annually](https://portal.n3servers.com/cart.php?a=add&pid=238) |
 
-> Host Unlimited Domains   
-> 50 GB SSD Space   
-> 2000 GB Bandwidth   
-> cPanel Control Panel   
-> CloudLinux Optimized   
-> LiteSpeed Web Server Powered    
-> [$3.99 Annually](https://clients.kayhosting.com/cart.php?a=add&pid=91)    
 
-2. vpshared.com
-
-> 128MB RAM    
-> 20% Shared CPU vCore    
-> 1GB SSD (RAID 10)    
-> 100GB Traffic @ 1Gbps   
-> Domain Not Included   
-> 20Gbps DDoS Protection    
-> Free Daily Backups   
-> Free Let’s Encrypt SSL   
-> No Limit FTP, SQL   
-> No Limit Domains   
-> No Limit E-mail Accounts   
-> [$4.00 Annually](https://billing.vpshared.com/cart.php?a=add&pid=135)
-
-3. Hosting73.com
-
-> Unlimited Domains Hosted  
-> 30 GB SSD Storage   
-> 2500 GB Monthly Bandwidth   
-> Free SSL Certificate   
-> cPanel Control Panel   
-> [$5.00 Annually](https://www.hosting73.com/billing/cart.php?a=add&pid=106) 
-
-4. solvedbydata.com
-
-> Host Unlimited Domains   
-> 100 GB SSD Space    
-> 2 TB Bandwidth    
-> LiteSpeed Web Server    
-> cPanel Control Panel    
-> CloudLinux Optimized    
-> DDoS Protection    
-> New York Datacenter   
-> [$5.00 Annually](https://clients.solvedbydata.com/cart.php?a=add&pid=29)
-
-5. KayHosting.com
-
-> Host Unlimited Domains   
-> 40 GB SSD Space    
-> 2000 GB Bandwidth  
-> Unlimited Databases   
-> Unlimited Email Accounts   
-> cPanel Control Panel   
-> CloudLinux Optimized  
-> LiteSpeed Web Server Powered       
-> [$5.00 Annually](https://clients.kayhosting.com/cart.php?a=add&pid=101)
-
-6. KayHosting.com
-
-> Host Unlimited Domains    
-> 100 GB SSD Space    
-> 3000 GB Bandwidth  
-> Unlimited Databases   
-> Unlimited Email Accounts   
-> cPanel Control Panel   
-> CloudLinux Optimized  
-> LiteSpeed Web Server Powered   
-> [$5.99 Annually](https://clients.kayhosting.com/cart.php?a=add&pid=92)  
-
-7. n3servers.com
-
-> Unlimited Hosted Domains   
-> 100GB Storage Space   
-> 2000GB Monthly Bandwidth   
-> cPanel Control Panel   
-> LiteSpeed Enterprise Web Server   
-> CloudLinux / CageFS   
-> DDoS Protection   
-> [$6.00 Annually](https://portal.n3servers.com/cart.php?a=add&pid=238)   
