@@ -37,7 +37,7 @@ If you like them, please give me likes or donate me.
 
 ---
 
-##  $2 ~ $9 Annually cPanel Shared Hosting
+##  $2.00 ~ $9.99 Annually cPanel Shared Hosting
 ###### *Tags: cPanel, DDoS Protected*
 
 | HostBRZ.com                                                  | n3Servers.com                                                | SolvedbyData.com                                             |
