@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Cheapest Shared Hosting"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,49 +8,213 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+"Free stuff is the most expensive”
 
-A data-driven personal website
-======
-| 1    | 2    | 3    |
-| ---- | ---- | ---- |
-| a    | b    | c    |
-| x    | y    | z    |
-| l    | m    | n    |
+I don’t use free webhosting, but I need some cheap webhosting to place webpage or landing page and blog. (e.g https://cheapestsharedhosting.com);
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+And I don’t like those that provide discounts for the first year and then raise the price in the next year.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+therefore, I collected several consistently cheap webhosting with no hidden charges and consistent renewal fees;
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+If you like them, please give me likes or donate me.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/petcat)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## $1.00 USD Annually cPanel Shared Hosting
+###### *Tags: $1/yearly, cPanel,*
 
-**Markdown generator**
+1. DcnHost.com     
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+>   Host 1 Domain    
+>   10GB Storage    
+>   200GB Bandwidth  
+>   Unlimited Features (i.e. Email, FTP, etc)    
+>   cPanel Control Panel    
+>   CloudLinux Optimized Servers    
+>   One Click Install Scripts   
+>   Free Migrations    
+>   [$0.89 Annually](https://my.dcnhost.com/cart.php?a=add&pid=144) (LIMITED STOCK) 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+2. KudoHosting.com
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+>  Host 1 Domain   
+>  10 GB Storage Space    
+>  500 GB Bandwidth    
+>  cPanel Control Panel   
+>  Free SSL Certificate    
+>  CloudLinux Optimized    
+>  Litespeed Web Server   
+>  Multiple PHP Versions  
+>  [$0.99 Annually](https://clients.kudohosting.com/cart.php?a=add&pid=112)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+3. MegazoneHosting.com     
+
+>  Host 2 Domains   
+>  10 GB SSD Storage Space    
+>  600 GB Bandwidth    
+>  Softaculous Script Installer    
+>  Free SSL Certificate    
+>  cPanel Control Panel    
+>  LiteSpeed Web Server    
+>  [$1.00 Annually](https://billing.megazonehosting.com/cart.php?a=add&pid=535)
+
+4. SolvedbyData.com
+
+>  Host 1 Domain    
+>  5 GB SSD Space    
+>  250 GB Bandwidth    
+>  LiteSpeed Web Server    
+>  cPanel Control Panel    
+>  CloudLinux Optimized    
+>  DDoS Protection   
+>  New York Datacenter   
+>  [$1.00 Annually](https://clients.solvedbydata.com/cart.php?a=add&pid=43)    
+
+5. Hosting73.com
+
+>  1 Domain Hosted    
+>  5 GB SSD Storage    
+>  300 GB Monthly Bandwidth    
+>  One Click Installs    
+>  Free SSL Certificate    
+>  cPanel Control Panel     
+>  [$1.00 Annually](https://www.hosting73.com/billing/cart.php?a=add&pid=105)    
+
+6. KayHosting.com
+
+>  Host 1 Domain     
+>  10 GB SSD Space     
+>  500 GB Bandwidth    
+>  Up To 5 Databases    
+>  Up To 5 Email Accounts    
+>  cPanel Control Panel    
+>  CloudLinux Optimized    
+>  LiteSpeed Web Server Powered    
+>  [$1.00 Annually](https://clients.kayhosting.com/cart.php?a=add&pid=100)     
+
+---
+
+## $2 ~ $9 Annually cPanel Shared Hosting
+###### *Tags: cPanel, DDoS Protected*
+
+1. HostBRZ.com
+
+> Host 1 Domain    
+> 5GB SSD Space    
+> 300GB Bandwidth   
+> cPanel Control Panel   
+> LiteSpeed Web Server Powered    
+> East Coast Datacenter (NY)    
+> DDoS Protected Servers     
+> [$2.00 Annually](https://www.hostbrz.com/portal/cart.php?a=add&pid=123)   
+
+2. n3Servers.com   
+
+> 2 Hosted Domains   
+> 30GB Storage Space    
+> 750GB Monthly Bandwidth    
+> Unlimited Features   
+> cPanel Control Panel   
+> LiteSpeed Enterprise Web Server   
+> CloudLinux / CageFS   
+> DDoS Protection    
+> [$2.50 Annually](https://portal.n3servers.com/cart.php?a=add&pid=237)    
+
+3. Solvedbydata.com   
+
+> Host 2 Domains   
+> 20 GB SSD Space   
+> 750 GB Bandwidth   
+> LiteSpeed Web Server   
+> cPanel Control Panel    
+> CloudLinux Optimized      
+> DDoS Protection   
+> New York Datacenter   
+> [$3.00 Annually](https://clients.solvedbydata.com/cart.php?a=add&pid=12)    
+
+---
+
+## $2 ~ $9 Annually Unlimited site Hosting
+###### *Tags: cPanel, Unlimited site, DDoS Protected*
+
+1. KayHosting
+
+> Host Unlimited Domains   
+> 50 GB SSD Space   
+> 2000 GB Bandwidth   
+> cPanel Control Panel   
+> CloudLinux Optimized   
+> LiteSpeed Web Server Powered    
+> [$3.99 Annually](https://clients.kayhosting.com/cart.php?a=add&pid=91)    
+
+2. vpshared.com
+
+> 128MB RAM    
+> 20% Shared CPU vCore    
+> 1GB SSD (RAID 10)    
+> 100GB Traffic @ 1Gbps   
+> Domain Not Included   
+> 20Gbps DDoS Protection    
+> Free Daily Backups   
+> Free Let’s Encrypt SSL   
+> No Limit FTP, SQL   
+> No Limit Domains   
+> No Limit E-mail Accounts   
+> [$4.00 Annually](https://billing.vpshared.com/cart.php?a=add&pid=135)
+
+3. Hosting73.com
+
+> Unlimited Domains Hosted  
+> 30 GB SSD Storage   
+> 2500 GB Monthly Bandwidth   
+> Free SSL Certificate   
+> cPanel Control Panel   
+> [$5.00 Annually](https://www.hosting73.com/billing/cart.php?a=add&pid=106) 
+
+4. solvedbydata.com
+
+> Host Unlimited Domains   
+> 100 GB SSD Space    
+> 2 TB Bandwidth    
+> LiteSpeed Web Server    
+> cPanel Control Panel    
+> CloudLinux Optimized    
+> DDoS Protection    
+> New York Datacenter   
+> [$5.00 Annually](https://clients.solvedbydata.com/cart.php?a=add&pid=29)
+
+5. KayHosting.com
+
+> Host Unlimited Domains   
+> 40 GB SSD Space    
+> 2000 GB Bandwidth  
+> Unlimited Databases   
+> Unlimited Email Accounts   
+> cPanel Control Panel   
+> CloudLinux Optimized  
+> LiteSpeed Web Server Powered       
+> [$5.00 Annually](https://clients.kayhosting.com/cart.php?a=add&pid=101)
+
+6. KayHosting.com
+
+> Host Unlimited Domains    
+> 100 GB SSD Space    
+> 3000 GB Bandwidth  
+> Unlimited Databases   
+> Unlimited Email Accounts   
+> cPanel Control Panel   
+> CloudLinux Optimized  
+> LiteSpeed Web Server Powered   
+> [$5.99 Annually](https://clients.kayhosting.com/cart.php?a=add&pid=92)  
+
+7. n3servers.com
+
+> Unlimited Hosted Domains   
+> 100GB Storage Space   
+> 2000GB Monthly Bandwidth   
+> cPanel Control Panel   
+> LiteSpeed Enterprise Web Server   
+> CloudLinux / CageFS   
+> DDoS Protection   
+> [$6.00 Annually](https://portal.n3servers.com/cart.php?a=add&pid=238)   
