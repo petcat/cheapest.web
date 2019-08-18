@@ -29,117 +29,22 @@ If you like them, please give me likes or donate me.
 | [$0.89 Annually](https://my.dcnhost.com/cart.php?a=add&pid=144) (LIMITED STOCK) | [$0.99 Annually](https://clients.kudohosting.com/cart.php?a=add&pid=112) | [$1.00 Annually](https://billing.megazonehosting.com/cart.php?a=add&pid=535) |
 
 
+| SolvedbyData.com                                             | Hosting73.com                                                | KayHosting.com                                               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Host 1 Domain<br/>5 GB SSD Space<br/>250 GB Bandwidth<br/>LiteSpeed Web Server<br/>cPanel Control Panel<br/>CloudLinux Optimized<br/>DDoS Protection<br/>New York Datacenter | 1 Domain Hosted<br/>5 GB SSD Storage<br/>300 GB Monthly Bandwidth<br/>One Click Installs<br/>Free SSL Certificate<br/>cPanel Control Panel | Host 1 Domain<br/>10 GB SSD Space<br/>500 GB Bandwidth<br/>Up To 5 Databases<br/>Up To 5 Email Accounts<br/>cPanel Control Panel<br/>CloudLinux Optimized<br/>LiteSpeed Web Server Powered |
+| [$1.00 Annually](https://clients.solvedbydata.com/cart.php?a=add&pid=43) | [$1.00 Annually](https://www.hosting73.com/billing/cart.php?a=add&pid=105) | [$1.00 Annually](https://clients.kayhosting.com/cart.php?a=add&pid=100) |
 
-
-1. DcnHost.com     
-
->   Host 1 Domain    
->   10GB Storage    
->   200GB Bandwidth  
->   Unlimited Features (i.e. Email, FTP, etc)    
->   cPanel Control Panel    
->   CloudLinux Optimized Servers    
->   One Click Install Scripts   
->   Free Migrations    
->   [$0.89 Annually](https://my.dcnhost.com/cart.php?a=add&pid=144) (LIMITED STOCK) 
-
-2. KudoHosting.com
-
->  Host 1 Domain   
->  10 GB Storage Space    
->  500 GB Bandwidth    
->  cPanel Control Panel   
->  Free SSL Certificate    
->  CloudLinux Optimized    
->  Litespeed Web Server   
->  Multiple PHP Versions  
->  [$0.99 Annually](https://clients.kudohosting.com/cart.php?a=add&pid=112)
-
-
-3. MegazoneHosting.com     
-
->  Host 2 Domains   
->  10 GB SSD Storage Space    
->  600 GB Bandwidth    
->  Softaculous Script Installer    
->  Free SSL Certificate    
->  cPanel Control Panel    
->  LiteSpeed Web Server    
->  [$1.00 Annually](https://billing.megazonehosting.com/cart.php?a=add&pid=535)
-
-4. SolvedbyData.com
-
->  Host 1 Domain    
->  5 GB SSD Space    
->  250 GB Bandwidth    
->  LiteSpeed Web Server    
->  cPanel Control Panel    
->  CloudLinux Optimized    
->  DDoS Protection   
->  New York Datacenter   
->  [$1.00 Annually](https://clients.solvedbydata.com/cart.php?a=add&pid=43)    
-
-5. Hosting73.com
-
->  1 Domain Hosted    
->  5 GB SSD Storage    
->  300 GB Monthly Bandwidth    
->  One Click Installs    
->  Free SSL Certificate    
->  cPanel Control Panel     
->  [$1.00 Annually](https://www.hosting73.com/billing/cart.php?a=add&pid=105)    
-
-6. KayHosting.com
-
->  Host 1 Domain     
->  10 GB SSD Space     
->  500 GB Bandwidth    
->  Up To 5 Databases    
->  Up To 5 Email Accounts    
->  cPanel Control Panel    
->  CloudLinux Optimized    
->  LiteSpeed Web Server Powered    
->  [$1.00 Annually](https://clients.kayhosting.com/cart.php?a=add&pid=100)     
 
 ---
 
-## $2 ~ $9 Annually cPanel Shared Hosting
+##  $2 ~ $9 Annually cPanel Shared Hosting
 ###### *Tags: cPanel, DDoS Protected*
 
-1. HostBRZ.com
+| HostBRZ.com                                                  | n3Servers.com                                                | SolvedbyData.com                                             |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Host 1 Domain<br/>5GB SSD Space<br/>300GB Bandwidth<br/>cPanel Control Panel<br/>LiteSpeed Web Server Powered<br/>East Coast Datacenter (NY)<br/>DDoS Protected Servers | 2 Hosted Domains<br/>30GB Storage Space<br/>750GB Monthly Bandwidth<br/>Unlimited Features<br/>cPanel Control Panel<br/>LiteSpeed Enterprise Web Server<br/>CloudLinux / CageFS<br/>DDoS Protection | Host 2 Domains<br/>20 GB SSD Space<br/>750 GB Bandwidth<br/>LiteSpeed Web Server<br/>cPanel Control Panel<br/>CloudLinux Optimized<br/>DDoS Protection<br/>New York Datacenter |
+| [$2.00 Annually](https://www.hostbrz.com/portal/cart.php?a=add&pid=123) | [$2.50 Annually](https://portal.n3servers.com/cart.php?a=add&pid=237) | [$3.00 Annually](https://clients.solvedbydata.com/cart.php?a=add&pid=12) |
 
-> Host 1 Domain    
-> 5GB SSD Space    
-> 300GB Bandwidth   
-> cPanel Control Panel   
-> LiteSpeed Web Server Powered    
-> East Coast Datacenter (NY)    
-> DDoS Protected Servers     
-> [$2.00 Annually](https://www.hostbrz.com/portal/cart.php?a=add&pid=123)   
-
-2. n3Servers.com   
-
-> 2 Hosted Domains   
-> 30GB Storage Space    
-> 750GB Monthly Bandwidth    
-> Unlimited Features   
-> cPanel Control Panel   
-> LiteSpeed Enterprise Web Server   
-> CloudLinux / CageFS   
-> DDoS Protection    
-> [$2.50 Annually](https://portal.n3servers.com/cart.php?a=add&pid=237)    
-
-3. Solvedbydata.com   
-
-> Host 2 Domains   
-> 20 GB SSD Space   
-> 750 GB Bandwidth   
-> LiteSpeed Web Server   
-> cPanel Control Panel    
-> CloudLinux Optimized      
-> DDoS Protection   
-> New York Datacenter   
-> [$3.00 Annually](https://clients.solvedbydata.com/cart.php?a=add&pid=12)    
 
 ---
 
